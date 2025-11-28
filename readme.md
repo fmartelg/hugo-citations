@@ -100,7 +100,7 @@ Which renders like:
 
 [Here's how](https://github.com/firstcontributions/first-contributions).
 
-## Credits
+## Acknowledgements
 
 - [Claude 3.5 Sonnet](https://www.anthropic.com/news/claude-3-5-sonnet)
 - [Pandoc](https://pandoc.org/)
